@@ -11,7 +11,7 @@ I'm a front-end developer.
 <img align="right" alt="GIF" src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/blob/main/giphy.gif?raw=true" width="408" height="318" />
 
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: birliza@mail.ru;
+<img src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/blob/main/giphy%20(1).gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: birliza@mail.ru;
 
 </br>
 
