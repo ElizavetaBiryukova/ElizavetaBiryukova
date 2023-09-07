@@ -3,6 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://biryukova.org/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/l.biryukova/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ElizavetaBiryukova)
+[![Vk Badge](https://img.shields.io/badge/-vk-ff8200?style=flat-square&logo=Telegram&logoColor=white)](https://vk.com/mslizaveta)
 
 ### Glad to see you here! &nbsp;
 
