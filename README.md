@@ -9,7 +9,7 @@
 
 I'm a front-end developer. 
 
-<img align="right" alt="GIF" src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/blob/main/giphy.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/assets/66876270/cc00eb2f-126a-4090-8e3a-3aa475367ed2?raw=true" width="408" height="318" />
 
 
 <img src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/blob/main/giphy%20(1).gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: birliza@mail.ru;
