@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a front-end developer. 
+I'm a frontend developer. 
 
 <img align="right" alt="GIF" src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/assets/66876270/cc00eb2f-126a-4090-8e3a-3aa475367ed2?raw=true" width="326" height="254" />
 
